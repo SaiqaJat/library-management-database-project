@@ -35,7 +35,7 @@ The system is built on a relational structure with the following core tables:
 
 ## 🧠 ER Diagram
 
-![ER Diagram](Library_ERD.png)
+![ER Diagram](https://github.com/SaiqaJat/library-management-database-project/blob/main/lib_erd.png)
 
 ---
 
@@ -74,13 +74,17 @@ The system is built on a relational structure with the following core tables:
 - Overdue book tracking ⏰  
 
 ---
+## 💡 What I Learned
 
-## 🚀 Example Stored Procedure
+- Designing normalized relational databases  
+- Writing complex SQL queries  
+- Implementing business logic in SQL  
+- Using stored procedures for automation  
+- Performing data analysis using SQL  
 
-```sql
-CALL issue_book(
-  'IS155',
-  'C108',
-  '978-0-330-25864-8',
-  'E104'
-);
+---
+
+## 👨‍💻 Author
+
+**Saiqa Jat**
+
