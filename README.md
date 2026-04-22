@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Project-Portfolio%20Ready-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Completed-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-orange?style=for-the-badge">
 </p>
 
 ---
@@ -84,7 +84,14 @@ The system is built on a relational structure with the following core tables:
 
 ---
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
-**Saiqa Jat**
+**Saiqa Jat**  
+Software Engineering Student | SQL & Data Analytics Enthusiast  
+
+---
+
+## ⭐ Support
+
+If you liked this project, feel free to star ⭐ the repository and explore more projects!
 
