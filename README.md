@@ -33,9 +33,11 @@ The system is built on a relational structure with the following core tables:
 
 ---
 
-## 🧠 ER Diagram
+## 🧱 Entity Relationship Diagram (ERD)
 
-![ER Diagram](https://github.com/SaiqaJat/library-management-database-project/blob/main/lib_erd.png)
+<p align="center">
+  <img src="https://github.com/SaiqaJat/library-management-database-project/blob/main/lib_erd.png" alt="Retail Sales ERD" width="700"/>
+</p>
 
 ---
 
